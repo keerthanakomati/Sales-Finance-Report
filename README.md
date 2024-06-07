@@ -1,4 +1,4 @@
-# Sales-Finance-Analytics - Excel-Project
+# P&L Report - Excel-Project
 
 - **Project objective:** 
 
